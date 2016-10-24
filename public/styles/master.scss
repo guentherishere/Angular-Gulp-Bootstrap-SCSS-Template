@@ -1,0 +1,12 @@
+/*******************/
+/*  Dependencies  */
+/*****************/
+/* Bootstrap Variables */
+@import "../../node_modules/bootstrap-sass/assets/stylesheets/bootstrap/_variables.scss";
+@import "variables";
+/* Bootstrap components */
+@import "bootstrap";
+/* base styling */
+@import "base";
+/* navbar styling */
+@import "components/navbar";
